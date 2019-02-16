@@ -1,6 +1,6 @@
 ## Django QA Application
 
-Live: [Demo](https://my-django-qa.herokuapp.com/)
+
 
 Used Tech Stack
 
